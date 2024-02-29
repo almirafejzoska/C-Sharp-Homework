@@ -1,0 +1,14 @@
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\bin\Debug\net8.0\AverageNumber.exe
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\bin\Debug\net8.0\AverageNumber.deps.json
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\bin\Debug\net8.0\AverageNumber.runtimeconfig.json
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\bin\Debug\net8.0\AverageNumber.dll
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\bin\Debug\net8.0\AverageNumber.pdb
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\obj\Debug\net8.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfo.cs
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\obj\Debug\net8.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\obj\Debug\net8.0\AverageNumber.dll
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\obj\Debug\net8.0\refint\AverageNumber.dll
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\obj\Debug\net8.0\AverageNumber.pdb
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\obj\Debug\net8.0\AverageNumber.genruntimeconfig.cache
+C:\Users\Bija\Desktop\class02\AverageNumber\AverageNumber\obj\Debug\net8.0\ref\AverageNumber.dll
