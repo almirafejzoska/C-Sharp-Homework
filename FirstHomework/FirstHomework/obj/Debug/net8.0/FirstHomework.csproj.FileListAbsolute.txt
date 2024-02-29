@@ -1,0 +1,14 @@
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\bin\Debug\net8.0\FirstHomework.exe
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\bin\Debug\net8.0\FirstHomework.deps.json
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\bin\Debug\net8.0\FirstHomework.runtimeconfig.json
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\bin\Debug\net8.0\FirstHomework.dll
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\bin\Debug\net8.0\FirstHomework.pdb
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\obj\Debug\net8.0\FirstHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\obj\Debug\net8.0\FirstHomework.AssemblyInfoInputs.cache
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\obj\Debug\net8.0\FirstHomework.AssemblyInfo.cs
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\obj\Debug\net8.0\FirstHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\obj\Debug\net8.0\FirstHomework.dll
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\obj\Debug\net8.0\refint\FirstHomework.dll
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\obj\Debug\net8.0\FirstHomework.pdb
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\obj\Debug\net8.0\FirstHomework.genruntimeconfig.cache
+C:\Users\Bija\Desktop\C#\FirstHomework\FirstHomework\obj\Debug\net8.0\ref\FirstHomework.dll
