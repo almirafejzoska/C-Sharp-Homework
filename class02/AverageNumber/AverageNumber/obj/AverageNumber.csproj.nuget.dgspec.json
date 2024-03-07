@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bija\\Desktop\\class02\\AverageNumber\\AverageNumber\\AverageNumber.csproj": {}
+    "C:\\Users\\Bija\\Desktop\\C Sharp Homeworks\\C-Sharp-Homework\\class02\\AverageNumber\\AverageNumber\\AverageNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bija\\Desktop\\class02\\AverageNumber\\AverageNumber\\AverageNumber.csproj": {
+    "C:\\Users\\Bija\\Desktop\\C Sharp Homeworks\\C-Sharp-Homework\\class02\\AverageNumber\\AverageNumber\\AverageNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bija\\Desktop\\class02\\AverageNumber\\AverageNumber\\AverageNumber.csproj",
+        "projectUniqueName": "C:\\Users\\Bija\\Desktop\\C Sharp Homeworks\\C-Sharp-Homework\\class02\\AverageNumber\\AverageNumber\\AverageNumber.csproj",
         "projectName": "AverageNumber",
-        "projectPath": "C:\\Users\\Bija\\Desktop\\class02\\AverageNumber\\AverageNumber\\AverageNumber.csproj",
+        "projectPath": "C:\\Users\\Bija\\Desktop\\C Sharp Homeworks\\C-Sharp-Homework\\class02\\AverageNumber\\AverageNumber\\AverageNumber.csproj",
         "packagesPath": "C:\\Users\\Bija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bija\\Desktop\\class02\\AverageNumber\\AverageNumber\\obj\\",
+        "outputPath": "C:\\Users\\Bija\\Desktop\\C Sharp Homeworks\\C-Sharp-Homework\\class02\\AverageNumber\\AverageNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
