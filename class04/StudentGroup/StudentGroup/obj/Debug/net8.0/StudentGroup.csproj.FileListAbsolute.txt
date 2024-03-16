@@ -1,0 +1,14 @@
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.exe
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.deps.json
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.runtimeconfig.json
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.dll
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.pdb
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfo.cs
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.dll
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\obj\Debug\net8.0\refint\StudentGroup.dll
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.pdb
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.genruntimeconfig.cache
+C:\Users\Bija\Desktop\class04\StudentGroup\StudentGroup\obj\Debug\net8.0\ref\StudentGroup.dll

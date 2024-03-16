@@ -7,6 +7,11 @@
             Console.WriteLine("Input a number:");
 
             double firstInput;
+            double secondInput;
+            char operand;
+            double result = 0;
+
+
 
             while (!double.TryParse(Console.ReadLine(), out firstInput))
             {
@@ -15,7 +20,7 @@
 
             Console.WriteLine("Input the second number:");
 
-            double secondInput;
+            
 
             while (!double.TryParse(Console.ReadLine(), out secondInput))
             {
@@ -24,7 +29,7 @@
 
             Console.WriteLine("Choose one of the following operations:  +, - , * , /");
 
-            char operand;
+            
 
             while (!char.TryParse(Console.ReadLine(), out operand))
             {
@@ -32,25 +37,25 @@
             }
 
 
-            double sum = 0;
+            
 
             switch (operand)
             {
                 case '+':
-                    sum = firstInput + secondInput;
-                    Console.WriteLine(sum);
+                    result = firstInput + secondInput;
+                    Console.WriteLine(result);
                     break;
                 case '-':
-                    sum = firstInput - secondInput;
-                    Console.WriteLine(sum);
+                    result = firstInput - secondInput;
+                    Console.WriteLine(result);
                     break;
                 case '*':
-                    sum = firstInput * secondInput;
-                    Console.WriteLine(sum);
+                    result = firstInput * secondInput;
+                    Console.WriteLine(result);
                     break;
                 case '/':
-                    sum = firstInput / secondInput;
-                    Console.WriteLine(sum);
+                    result = firstInput / secondInput;
+                    Console.WriteLine(result);
                     break;
                 default:
                     Console.WriteLine("Invalid operation selected");

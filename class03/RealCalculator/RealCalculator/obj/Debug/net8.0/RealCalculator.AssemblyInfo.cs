@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c29de5ea01d21fd0c5f6f7278b30e42d57daf05")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

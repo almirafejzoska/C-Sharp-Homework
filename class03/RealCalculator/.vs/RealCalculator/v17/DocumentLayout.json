@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bija\\Desktop\\class03\\RealCalculator\\",
+  "WorkspaceRootPath": "C:\\Users\\Bija\\Desktop\\C Sharp Homeworks\\C-Sharp-Homework\\class03\\RealCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{761076FA-948B-48A2-B488-6989D5EFCECE}|RealCalculator\\RealCalculator.csproj|c:\\users\\bija\\desktop\\class03\\realcalculator\\realcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{761076FA-948B-48A2-B488-6989D5EFCECE}|RealCalculator\\RealCalculator.csproj|c:\\users\\bija\\desktop\\c sharp homeworks\\c-sharp-homework\\class03\\realcalculator\\realcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{761076FA-948B-48A2-B488-6989D5EFCECE}|RealCalculator\\RealCalculator.csproj|solutionrelative:realcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bija\\Desktop\\class03\\RealCalculator\\RealCalculator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bija\\Desktop\\C Sharp Homeworks\\C-Sharp-Homework\\class03\\RealCalculator\\RealCalculator\\Program.cs",
               "RelativeDocumentMoniker": "RealCalculator\\Program.cs",
-              "ToolTip": "C:\\Users\\Bija\\Desktop\\class03\\RealCalculator\\RealCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Bija\\Desktop\\C Sharp Homeworks\\C-Sharp-Homework\\class03\\RealCalculator\\RealCalculator\\Program.cs",
               "RelativeToolTip": "RealCalculator\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T21:43:57.553Z",
               "EditorCaption": ""

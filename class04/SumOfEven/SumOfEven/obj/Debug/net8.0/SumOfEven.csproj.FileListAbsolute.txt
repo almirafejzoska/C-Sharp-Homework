@@ -1,0 +1,14 @@
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.exe
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.deps.json
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.runtimeconfig.json
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.dll
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.pdb
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfo.cs
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.dll
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\obj\Debug\net8.0\refint\SumOfEven.dll
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.pdb
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.genruntimeconfig.cache
+C:\Users\Bija\Desktop\class04\SumOfEven\SumOfEven\obj\Debug\net8.0\ref\SumOfEven.dll
